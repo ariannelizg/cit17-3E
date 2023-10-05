@@ -10,6 +10,7 @@
     <?php
         echo "Forda code ang mga ferzon<br>";
         echo "Oneshot Capstone, AMEN!<br>";
+        echo "HelloHi"
         echo "Practice<br>";
 
         $int_var = 100;
