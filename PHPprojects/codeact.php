@@ -9,7 +9,7 @@
     <h1>Codevility</h1>
     <?php
         echo "Forda code ang mga ferzon<br>";
-        echo "Oneshot Capstone, AMEN!<br>";
+        echo "<h1>Oneshot Capstone, AMEN!<br>";
         echo "HelloHi";
         echo "Practice<br>";
 
